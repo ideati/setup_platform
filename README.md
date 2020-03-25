@@ -1,6 +1,9 @@
 # Platform setup instructions
 
 Initialization scripts to replicate data collection nodes.
+```console
+user1@node1:~$ sudo ./boot.sh
+```
 
 ## Motivation
 Data collection servers are the basis of our service. They are a loosely connected set of nodes that acquire and process data and perform different tasks on it.
