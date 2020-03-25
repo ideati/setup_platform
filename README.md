@@ -25,3 +25,6 @@ Code deployment to each node is done by a git push. Every component and every me
 
 ### Control
 The basis for controlling the system is the scheduler. The scheduler decides which services run on each node, when to stop a service, when to start a new one and when to update each component.
+
+### Testing
+Each component of the system must comply with a test bench. Every exposed functionality must be tested to pass the whole technical specification before committing it to the master branch. At all times, the master branch shall compile properly and shall pass all the tests.
