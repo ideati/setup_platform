@@ -5,11 +5,11 @@ sudo apt-get install -y apt-transport-https
 sudo apt install -y git build-essential mosh
 
 # nginx web server for serving static files and as proxy server
-sudo apt install nginx
+sudo apt install -y nginx
 sudo ufw app list
 sudo ufw allow 'Nginx HTTP'
 sudo ufw status
-systemctl status nginx
+sudo systemctl status nginx
 sudo nginx -t
 sudo systemctl restart nginx
 
@@ -32,7 +32,9 @@ sudo make install
 sudo apt install mosh
 
 # PostgreSQL
-sudo apt install postgresql postgresql-contrib
+sudo apt install -y postgresql-12 postgresql-client-12 postgresql-contrib pgbouncer
+touch ~/.pgpass
+chmod 0600 ~/.pgpass
 
 # Pony
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/ponylang/ponyup/latest-release/ponyup-init.sh | sh
