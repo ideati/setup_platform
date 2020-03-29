@@ -2,7 +2,7 @@
 sudo apt update
 sudo apt-get upgrade
 sudo apt-get install -y apt-transport-https
-sudo apt install -y git build-essential mosh
+sudo apt install -y git build-essential mosh git libsqlite3-dev
 
 # nginx web server for serving static files and as proxy server
 sudo apt install -y nginx
@@ -28,8 +28,6 @@ ls
 make
 make test
 sudo make install
-
-sudo apt install mosh
 
 # PostgreSQL
 sudo apt install -y postgresql-12 postgresql-client-12 postgresql-contrib pgbouncer
