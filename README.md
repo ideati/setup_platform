@@ -1,6 +1,6 @@
 # Platform setup instructions
 
-Initialization scripts to replicate data collection nodes.
+Initialization scripts to replicate data collection nodes and other useful development tools.
 ```console
 user1@node1:~$ sudo ./boot.sh
 ```
