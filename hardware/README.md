@@ -24,4 +24,7 @@ Corsair Vengeance Ddr4 DIMM 3200MHz 2x16GB 25600MB/s ($1.062.550)
 Gskill Trident Z Rgb - 32gb - 3200mhz ($ 890.000)
 2933MHz DDR4 ECC Registered
 
+# Example
+https://pcpartpicker.com/list/vJf3p8
+
 # Tested system configurations
