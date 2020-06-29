@@ -3,11 +3,10 @@ The scope of this section is to share experiences of running certain workloads o
 We aim at building a performant station on a specific budget.
 
 # GPU
-Radeon Rx Vega 64 8gb ($ 1.750.000)
-Radeon Rx Vega Frontier
-NVIDIA GeForce RTX 2080Ti ($3.683.000)
-2 card Configurations
-4 card Configurations
+- MSI Gaming GeForce RTX 2070 Super 8GB GDRR6 256-bit
+- Radeon Rx Vega 64 8gb ($ 1.750.000)
+- Radeon Rx Vega Frontier
+- NVIDIA GeForce RTX 2080Ti ($3.683.000)
 
 # Storage
 Samsung EVO 500GB NVMe M.2 PCIe gen 3.0 x4 interface
