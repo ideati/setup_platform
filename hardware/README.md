@@ -7,6 +7,7 @@ We aim at building a performant station on a specific budget.
 - Radeon Rx Vega 64 8gb ($ 1.750.000)
 - Radeon Rx Vega Frontier
 - NVIDIA GeForce RTX 2080Ti ($3.683.000)
+- EVGA GeForce GTX 1060 3GB
 
 # Storage
 Samsung EVO 500GB NVMe M.2 PCIe gen 3.0 x4 interface
