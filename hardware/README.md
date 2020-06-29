@@ -9,6 +9,8 @@ We aim at building a performant station on a specific budget.
 - NVIDIA GeForce RTX 2080Ti ($3.683.000)
 - EVGA GeForce GTX 1060 3GB
 
+Multi-GPU system how-to: https://timdettmers.com/2014/09/21/how-to-build-and-use-a-multi-gpu-system-for-deep-learning/
+
 # Storage
 Samsung EVO 500GB NVMe M.2 PCIe gen 3.0 x4 interface
 -	3400 MB/s read
